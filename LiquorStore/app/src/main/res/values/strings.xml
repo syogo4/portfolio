@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">LiquorStore</string>
+    <string name="tvLoginName">ゲスト様</string>
+    <string name="tvLogin">ログイン</string>
+    <string name="tvName">お名前:</string>
+    <string name="tvPass">パスワード:</string>
+    <string name="edName">お名前</string>
+    <string name="btLogin">ログイン</string>
+    <string name="btLogout">ログアウト</string>
+    <string name="btNow">新規登録</string>
+    <string name="tbOrder">注文する</string>
+    <string name="liOrdered">注文済履歴</string>
+    <string name="tbAdd">追加</string>
+    <string name="tvOrdered">ご注文ありがとうございました</string>
+    <string name="tbTop">トップ画面に戻る</string>
+    <string name="notpass">パスワードが違います。</string>
+    <string name="notNew">パスワードを変更してください。</string>
+    <string name="tvSum">合計</string>
+</resources>
